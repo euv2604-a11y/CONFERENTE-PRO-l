@@ -1,0 +1,22 @@
+{
+  "short_name": "ERP Conferência",
+  "name": "ERP Conferência de Produtos Corporativos",
+  "description": "Aplicativo de conferência de produtos estilo ERP com scanner de câmera e banco offline.",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=192&q=80",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=512&q=80",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait"
+}

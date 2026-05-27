@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+@layer utilities {
+  .theme-glow {
+    text-shadow: 0 0 10px rgba(16, 185, 129, 0.4);
+  }
+  .panel-dark-gradient {
+    background: linear-gradient(145deg, #0f172a, #090d16);
+  }
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "Conferência de Produtos ERP",
+  "description": "Aplicativo de conferência de produtos corporativo tipo ERP com leitor de código de barras por câmera, banco de dados offline e exportação CSV/PDF.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
